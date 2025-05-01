@@ -1,0 +1,108 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "SJ2-3574A-SMT-TR" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "J" (id 0) (at -7.62 8.382 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "SJ2-3574A-SMT-TR" (id 1) (at -7.62 -7.62 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "SJ2-3574A-SMT-TR:SAMESKY_SJ2-3574A-SMT-TR" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "PARTREV" "1.05" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "STANDARD" "Manufacturer Recommendations" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MAXIMUM_PACKAGE_HEIGHT" "5.3mm" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MANUFACTURER" "Same Sky" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "SJ2-3574A-SMT-TR_0_0"
+      (polyline
+        (pts (xy -8.89 3.81) (xy -7.62 3.81)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -7.62 3.81) (xy -6.35 3.81)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -6.35 3.81) (xy -6.35 -2.54)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -6.35 -2.54) (xy -8.89 -2.54)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -8.89 -2.54) (xy -8.89 3.81)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -7.62 3.81) (xy -7.62 7.62)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -7.62 7.62) (xy 7.62 7.62)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 2.54 -5.08) (xy 3.81 -3.81)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 3.81 -3.81) (xy 5.08 -5.08)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -3.81 5.08) (xy -2.54 3.81)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -2.54 3.81) (xy -1.27 5.08)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.27 5.08) (xy 7.62 5.08)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.27 0.0) (xy 0.0 1.27)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 0.0 1.27) (xy 1.27 0.0)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.27 0.0) (xy 7.62 0.0)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 5.08 -5.08) (xy 7.62 -5.08)) (stroke (width 0.254))
+      )
+      (pin passive line (at 12.7 7.62 180.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 -5.08 180.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 0.0 180.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 12.7 5.08 180.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)

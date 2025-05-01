@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RP2040_minimal_r2-cache")(type "Legacy")(uri "${KIPRJMOD}/../../symFoot/RP2040/RP2040_minimal_r2-cache.lib")(options "")(descr ""))
+  (lib (name "pin01x02")(type "KiCad")(uri "${KIPRJMOD}/../../symFoot/pin01x02/6130XX11121_61300211121.kicad_sym")(options "")(descr ""))
+  (lib (name "PCM1860DBTR")(type "KiCad")(uri "${KIPRJMOD}/../../symFoot/PCM1860DBTR/KiCADv6/2025-03-20_09-31-43.kicad_sym")(options "")(descr "microphone"))
+  (lib (name "WM8524CGEDT_R")(type "KiCad")(uri "${KIPRJMOD}/../../symFoot/WM8524CGEDT_R/KiCADv6/2025-03-20_08-59-12.kicad_sym")(options "")(descr "speaker"))
+  (lib (name "SJ2-3574A-SMT-TR")(type "KiCad")(uri "${KIPRJMOD}/../../symFoot/SJ2_3574A_SMT_TR/SJ2-3574A-SMT-TR.kicad_sym")(options "")(descr "audio jack"))
+  (lib (name "TMP110D3IDPWR")(type "KiCad")(uri "${KIPRJMOD}/../../symFoot/TMP110D3IDPWR/KiCADv6/2025-04-27_04-23-53.kicad_sym")(options "")(descr "temperature sensor"))
+  (lib (name "XRCGB25M000F3M00R0")(type "KiCad")(uri "/media/tanawin/tanawin1701e/project4/pcb/finalProj/symFoot/XRCGB25M000F3M00R0/XRCGB25M000F3M00R0.kicad_sym")(options "")(descr "clk 25 MHz"))
+)
